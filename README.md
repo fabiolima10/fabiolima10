@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" >
+  <img src="banner01.jpg" >
 </p>
 
 # Hello! I'm Fábio Lima
